@@ -1,5 +1,5 @@
-# I have created this repo for different projects
+# I have created this repo for showcasing different projects
 
-## Random quote machine (random-quote.html)
+## Project: [Random quote machine](https://42-alex.github.io/random-quote.html)
 
 This is a certification project from the "Front End Development Libraries" course on FreeCodeCamp 
